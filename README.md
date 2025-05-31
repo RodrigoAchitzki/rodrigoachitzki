@@ -1,4 +1,4 @@
-### Olá! eu sou o Rodrigo Achitzki, tudo Bem?
+### Olá! eu sou o Rodrigo Achitzki, tudo Bem? 👋🏻
 - 👨🏼‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🧑🏼‍💻 Desenvolvedor Freelancer
 - 📧 Contate-me no email: rodrigoachitzki@hotmail.com
