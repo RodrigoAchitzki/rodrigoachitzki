@@ -9,8 +9,8 @@
   <br></a>br>
   FERRAMENTAS DE DESENVOLVIMENTO <br></br>
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Digo-vscode" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"> VSCode
-  <img align="center" alt="Digo-Figma" height="30" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> Figma
+  <img align="center" alt="Digo-vscode" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"> 
+  <img align="center" alt="Digo-Figma" height="30" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> 
   </div><br></div>br>
   LINGUAGENS E BIBLIOTECAS
   <div style="display: inline_block"><br>
