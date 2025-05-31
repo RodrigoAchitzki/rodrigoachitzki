@@ -1,7 +1,7 @@
 ### Olá! eu sou o Rodrigo Achitzki, tudo Bem?
 - 👨🏼‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🧑🏼‍💻 Desenvolvedor Freelancer
-- 📧 Contate-me no email:rodrigoachitzki@hotmail.com
+- 📧 Contate-me no email: rodrigoachitzki@hotmail.com
 <div align="center">
   <a href="https://https://github.com/RodrigoAchitzki/rodrigoachitzki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAchitzki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
