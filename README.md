@@ -1,6 +1,6 @@
 ### Olá! eu sou o Rodrigo Achitzki, tudo Bem?
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
-- 🐍 Estudando Python
+-  Freelancer
 - 📧 Contate-me no email:rodrigoachitzki@hotmail.com
 <div align="center">
   <a href="https://https://github.com/RodrigoAchitzki/rodrigoachitzki">
