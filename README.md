@@ -6,10 +6,10 @@
   <a href="https://https://github.com/RodrigoAchitzki/rodrigoachitzki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAchitzki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  FERRAMENTAS DE DESENVOLVIMENTO 
+  FERRAMENTAS DE DESENVOLVIMENTO <br></a>br>
     
-  <img align="center" alt="Digo-vscode" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">VSCode<br></br>
-  <img align="center" alt="Digo-Figma" height="30" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">Figma
+  <img align="center" alt="Digo-vscode" height="30" width="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"> VSCode<br></br>
+  <img align="center" alt="Digo-Figma" height="30" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> Figma
   
 
   <div style="display: inline_block"><br>
