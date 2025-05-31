@@ -1,5 +1,5 @@
 ### Olá! eu sou o Rodrigo Achitzki, tudo Bem?
-- 📚 Cursando Engenharia de Software e Analise e Desenvolvimento de Sistemas
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🐍 Estudando Python
 - 📧 Contate-me no email:rodrigoachitzki@hotmail.com
 <div align="center">
@@ -18,6 +18,6 @@
  
 <div>
 <br>
-   <a href="https://www.linkedin.com/in/rodrigo-achitzki-994b59252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/rodrigo-achitzki-769050362/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
