@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3b0764,100:00f0ff&height=220&section=header&text=RODRIGO%20ACHITZKI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Dev%20%E2%80%A2%20IA%20%E2%80%A2%20Games&descSize=20&descAlignY=62" alt="Rodrigo Achitzki" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3b0764,100:00f0ff&height=220&section=header&text=RODRIGO%20ACHITZKI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Ind%C3%BAstria%204.0&descSize=20&descAlignY=62" alt="Rodrigo Achitzki" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=PLAYER+1+READY...;Desenvolvedor+%7C+IA+%7C+Games;Python+%E2%80%A2+JavaScript+%E2%80%A2+React;Press+START+para+continuar_" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=PLAYER+1+READY...;Dev+Freelancer+Full+Stack;Sistemas+Industriais+%26+SaaS;ESP32+%E2%80%A2+Arduino+%E2%80%A2+Raspberry+Pi;Dashboards+%26+Automa%C3%A7%C3%B5es;Press+START+para+continuar_" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,34 +19,46 @@
 
 ```yaml
 player: Rodrigo Achitzki
-classe: Desenvolvedor Full Stack
+classe: Desenvolvedor Freelancer Full Stack
 formacao: Análise e Desenvolvimento de Sistemas
 guilda: Freelancer
-especialidades: [web, automação, inteligência artificial]
-side_quest: desenvolvimento de jogos
+especialidades:
+  - sistemas industriais
+  - SaaS industrial
+  - automações com ESP32, Arduino e Raspberry Pi
+  - dashboards e monitoramento em tempo real
 status: "online — aceitando novas missões"
 ```
 
 ### 🗺️ Missão atual
 
-- ⚔️ Construindo soluções com **IA** e agentes
-- 🎮 Explorando **desenvolvimento de jogos** e engenharia reversa de apps
-- 🧠 Level up em: arquitetura de software e automação
-- 🤝 Aberto a colaborar em projetos de **tech & games**
+- 🏭 Desenvolvendo **sistemas e SaaS para a indústria**
+- 🔌 Criando **automações e IoT** com ESP32, Arduino e Raspberry Pi
+- 📊 Construindo **dashboards** para monitorar produção e processos em tempo real
+- 🌐 Projetos **full stack** sob medida para empresas
+- 🤝 Aberto a novos projetos e parcerias
 
 ---
 
 ### 🎒 Inventário
 
+<p align="center"><b>💻 Full Stack</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github&theme=dark" alt="Linguagens"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,windows,linux&theme=dark" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github&theme=dark" alt="Full Stack"/>
 </p>
 
-<p align="center"><b>🕹️ Desbloqueando agora</b></p>
+<p align="center"><b>🔌 IoT & Automação</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs&theme=dark" alt="Game dev"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" alt="IoT"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ESP32-0d0221?style=for-the-badge&logo=espressif&logoColor=e7352c" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-0d0221?style=for-the-badge&logo=arduino&logoColor=00979d" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-0d0221?style=for-the-badge&logo=raspberrypi&logoColor=c51a4a" alt="Raspberry Pi"/>
+</p>
+
+<p align="center"><b>🛠️ Ferramentas</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,windows,linux&theme=dark" alt="Ferramentas"/>
 </p>
 
 ---
@@ -70,14 +82,10 @@ status: "online — aceitando novas missões"
 
 ---
 
-### 🐍 Contribuições
+### 🚀 Contribuições
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoAchitzki/rodrigoachitzki/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoAchitzki/rodrigoachitzki/output/github-snake.svg"/>
-    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/RodrigoAchitzki/rodrigoachitzki/output/github-snake-dark.svg"/>
-  </picture>
+  <img src="game.gif" alt="Navinha destruindo as contribuições" width="100%"/>
 </p>
 
 <p align="center">
