@@ -1,8 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-     <img src="banner.svg" alt="Rodrigo Achitzki" width="100%"/>type=venom&color=0:0d0221,50:3b0764,100:00f0ff&height=220&section=header&text=RODRIGO%20ACHITZKI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Ind%C3%BAstria%204.0&descSize=20&descAlignY=62" alt="Rodrigo Achitzki" width="100%"/>
-</p>
-
+     <img src="banner.svg" alt="Rodrigo Achitzki" width="100%"
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=PLAYER+1+READY...;Dev+Freelancer+Full+Stack;Sistemas+Industriais+%26+SaaS;ESP32+%E2%80%A2+Arduino+%E2%80%A2+Raspberry+Pi;Dashboards+%26+Automa%C3%A7%C3%B5es;Press+START+para+continuar_" alt="Typing SVG"/>
 </p>
