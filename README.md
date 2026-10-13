@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3b0764,100:00f0ff&height=220&section=header&text=RODRIGO%20ACHITZKI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Ind%C3%BAstria%204.0&descSize=20&descAlignY=62" alt="Rodrigo Achitzki" width="100%"/>
+     <img src="banner.svg" alt="Rodrigo Achitzki" width="100%"/>type=venom&color=0:0d0221,50:3b0764,100:00f0ff&height=220&section=header&text=RODRIGO%20ACHITZKI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Ind%C3%BAstria%204.0&descSize=20&descAlignY=62" alt="Rodrigo Achitzki" width="100%"/>
 </p>
 
 <p align="center">
