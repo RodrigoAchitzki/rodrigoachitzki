@@ -66,19 +66,9 @@ status: "online — aceitando novas missões"
 ### 📊 Player stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RodrigoAchitzki&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f0ff&icon_color=a855f7&text_color=ffffff&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAchitzki&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00f0ff&text_color=ffffff" alt="Top linguagens"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=RodrigoAchitzki&theme=radical&hide_border=true&background=0d0221&ring=a855f7&fire=00f0ff&currStreakLabel=00f0ff" alt="Streak"/>
 </p>
 
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoAchitzki&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Troféus"/>
-</p>
 ---
 
 ### 🚀 Contribuições
