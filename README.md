@@ -45,6 +45,14 @@ status: "online — aceitando novas missões"
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github&theme=dark" alt="Full Stack"/>
 </p>
 
+<p align="center"><b>🗄️ Banco de Dados</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb&theme=dark" alt="Banco de Dados"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NoSQL-0d0221?style=for-the-badge&logo=mongodb&logoColor=47a248" alt="NoSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-0d0221?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-0d0221?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase"/>
+</p>
 <p align="center"><b>🔌 IoT & Automação</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" alt="IoT"/>
